@@ -1,5 +1,7 @@
 [Screencast from 06-17-2024 01:16:00 AM.webm](https://github.com/mikewainaina/Manager-App/assets/162094676/61493eb4-bafe-4300-ae43-a08fecc11e93)
 # 2
+file:///home/mike/Videos/Screencasts/Screencast%20from%2006-18-2024%2011:19:15%20AM.webm
+
 
 # Manager App
   Date:2024 / 06 / 17
